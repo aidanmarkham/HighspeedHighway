@@ -37,6 +37,7 @@ public class CarPitchController : MonoBehaviour
         if(targetPitch > maxPitch)
         {
             gear++;
+
         }
     }
 }
